@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="271" viewBox="0 0 460.0 271.43" font-family="sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<text x="30" y="20" font-size="14" font-weight="bold">Appendix 3: Adjacent (Sub-line)</text>
+<text x="30" y="36" font-size="12">adjacent (they share part of a side)</text>
+<rect x="30.0" y="70.0" width="171.43" height="171.43" fill="#1f77b4" fill-opacity="0.25" stroke="#1f77b4" stroke-width="2"/><text x="34.0" y="84.0" font-size="12" fill="#1f77b4">A</text>
+<rect x="201.43" y="91.43" width="128.57" height="42.86" fill="#ff7f0e" fill-opacity="0.25" stroke="#ff7f0e" stroke-width="2"/><text x="205.43" y="105.43" font-size="12" fill="#ff7f0e">B</text>
+<line x1="201.43" y1="134.29" x2="201.43" y2="91.43" stroke="#d62728" stroke-width="5" stroke-linecap="round"/>
+</svg>
